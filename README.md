@@ -1,2 +1,2 @@
 # custom-chrome-livereload
-Chrome Livereload with 200ms delay reload, because node streams are awesame :)
+Chrome Livereload with 100ms delay reload, because node streams are awesame :)
